@@ -1,0 +1,141 @@
+[{
+        "data_parent": 2000,
+        "data_key": "dogs",
+        "data_value": 456516
+    },
+    {
+        "data_parent": 2000,
+        "data_key": "cats",
+        "data_value": 17878
+    },
+    {
+        "data_parent": 2000,
+        "data_key": "fish",
+        "data_value": 41945
+    },
+    {
+        "data_parent": 2000,
+        "data_key": "lion",
+        "data_value": 13322
+    },
+    {
+        "data_parent": 2000,
+        "data_key": "fish",
+        "data_value": 1643
+    },
+    {
+        "data_parent": 2000,
+        "data_key": "lobster",
+        "data_value": 3487
+    },
+    {
+        "data_parent": 2000,
+        "data_key": "plants",
+        "data_value": 4598
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "dogs",
+        "data_value": 459228
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "crab",
+        "data_value": 1553724
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "whale",
+        "data_value": 43510
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "sand",
+        "data_value": 19656
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "fish",
+        "data_value": 2462
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "lobster",
+        "data_value": 3299
+    },
+    {
+        "data_parent": 2005,
+        "data_key": "plants",
+        "data_value": 4917
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "dogs",
+        "data_value": 440941
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "crab",
+        "data_value": 14290
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "whale",
+        "data_value": 32999
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "lion",
+        "data_value": 26009
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "fish",
+        "data_value": 1576
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "lobster",
+        "data_value": 2845
+    },
+    {
+        "data_parent": 2010,
+        "data_key": "plants",
+        "data_value": 4383
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "dogs",
+        "data_value": 479696
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "crab",
+        "data_value": 15628
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "whale",
+        "data_value": 37461
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "lion",
+        "data_value": 34673
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "fish",
+        "data_value": 1678
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "lobster",
+        "data_value": 2803
+    },
+    {
+        "data_parent": 2016,
+        "data_key": "plants",
+        "data_value": 6348
+    }
+]
